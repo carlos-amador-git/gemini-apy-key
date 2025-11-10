@@ -1,0 +1,5 @@
+AIzaSyCK2FtPzT0YJpC3_J1NL2CQ4motaMPnuT8
+
+
+# Replace YOUR_API_KEY with your actual API key
+curl "https://generativelanguage.googleapis.com/v1/models?key=AIzaSyCK2FtPzT0YJpC3_J1NL2CQ4motaMPnuT8"
